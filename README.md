@@ -3,23 +3,6 @@
 
 注册rf: https://share.coresky.com/y3vkgx/tasks-rewards
 
-# Coresky Bot教程
+# Coresky Bot 2.0教程
 
-抓token教程
-
-![image](https://github.com/user-attachments/assets/e4a25a25-28c0-45d4-84aa-d7bd7d65b04f)
-
-config.json配置
-```json
-[
-    {
-        "token": "token1",
-        "proxy": "http://127.0.0.1:7890"
-    },
-    {
-        "token": "token2",
-        "proxy": "http://192.168.2.7:50408"
-    }
-]
-
-```
+将private_key.txt和proxy.txt 放置等量的内容，如果由脚本生成config.json配置
